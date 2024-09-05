@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Basic Hello Worl script
+# Basic Hello World script
 
 echo "Hello World"
 
