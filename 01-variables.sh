@@ -4,7 +4,7 @@
 
 echo "Hello World"
 
-Script without variables
+# Script without variables
 
 echo "Ramesh:: Hi Suresh, How are you?"
 echo "Suresh:: Hello Ramesh. I am fine. How are you doing?"
