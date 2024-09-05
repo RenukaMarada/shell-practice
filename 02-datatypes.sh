@@ -11,7 +11,7 @@ echo "Capital of Chennai is: ${Capitals[2]}"
 
 echo "all capitals: ${Capitals[@]}"
 
-# To print date with using date command
+# To print date using date command
 
 DATE=$(date +%F)
 echo "Today's date: $DATE"
